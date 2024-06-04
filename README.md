@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Im Rahmen meiner Umschulung zum Fachinformatiker für Anwendungsentwicklung bin ich auf der Suche nach einem Platz für ein Pflichtpraktikum ab Ende September '24 für acht Monate.
+
 <!--
 **lohrengel/lohrengel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
