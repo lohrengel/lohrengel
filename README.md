@@ -1,8 +1,6 @@
 ## Moin, ich bin Felix.
 
-Im Rahmen meiner Umschulung zum Fachinformatiker für Anwendungsentwicklung bin ich auf der Suche nach einem Platz für ein Pflichtpraktikum ab Ende September 2024 für acht Monate.
-
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Go
 
 <!--
 **lohrengel/lohrengel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
