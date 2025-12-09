@@ -1,6 +1,6 @@
 ## Moin, ich bin Felix.
 
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning ABAP
 
 <!--
 **lohrengel/lohrengel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
